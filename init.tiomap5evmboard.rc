@@ -1,4 +1,4 @@
-import init.omap5pandaboard.usb.rc
+import init.tiomap5evmboard.usb.rc
 
 on init
     mkdir /mnt/shell/emulated 0700 shell shell
